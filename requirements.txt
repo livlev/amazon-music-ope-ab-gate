@@ -1,7 +1,7 @@
-numpy>=2.0
-pandas>=2.2
-matplotlib>=3.8
-requests>=2.31
-fsspec>=2024.0
-pyarrow>=16.0
-scipy>=1.12
+numpy
+pandas
+matplotlib
+pyarrow
+fsspec
+requests
+jupyter

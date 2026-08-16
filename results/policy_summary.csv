@@ -1,2 +1,0 @@
-logging_policy_value_D2,logging_reported_lower,logging_reported_upper,target_policy_reference_D1,target_reported_lower,target_reported_upper,held_out_target_uplift,held_out_uplift_envelope_lower,held_out_uplift_envelope_upper
-1.250246,1.246222,1.254325,1.259499,1.255731,1.263091,0.00740041,0.00112037,0.01353628
