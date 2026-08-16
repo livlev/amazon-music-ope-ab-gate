@@ -1,0 +1,4 @@
+estimator,ground_truth,estimate,signed_error,absolute_error
+PBM-D,1.259499,1.314705,0.055206,0.055206
+IPM,1.259499,1.36148,0.101981,0.101981
+INTERPOL-3,1.259499,1.29215,0.032651,0.032651
