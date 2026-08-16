@@ -2,7 +2,7 @@
 
 The Amazon Music benchmark data is **not redistributed in this repository**.
 
-The reproduction script samples the public dataset remotely from:
+The notebook samples the public dataset remotely from:
 
 - https://huggingface.co/datasets/amazon/music-off-policy-evaluation-benchmark
 

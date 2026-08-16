@@ -106,6 +106,8 @@ pip install -r requirements.txt
 jupyter notebook analysis.ipynb
 ```
 
+The notebook imports estimator code from the cloned Amazon repository. Depending on your environment, follow that repository's setup instructions for any additional estimator-side dependencies.
+
 ## Sources
 
 - https://github.com/amazon-science/music-off-policy-evaluation-benchmark
